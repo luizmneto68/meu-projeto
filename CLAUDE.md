@@ -17,3 +17,7 @@ This is a beginner Python project with two standalone scripts:
 - `mensagem.py` — stores the string in a variable before printing
 
 No dependencies, no build step, no tests framework configured.
+
+## Git workflow
+
+Always ask the user for confirmation before committing. Do NOT ask for the commit message — generate it automatically based on the changes. After confirmation, commit and push to the remote in sequence.
